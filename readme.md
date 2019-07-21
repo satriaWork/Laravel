@@ -1,3 +1,16 @@
+## website ini menggunakan template Klorofil
+
+## Cara Pakai
+1. jalankan route "/login"
+2. input username = "satriaadhi04@gmail.com" pass = "sebentar" sebagai admin
+
+## Apa saja yang ada pada website ini?
+1. menampilkan data siswa, profil siswa, guru.
+2. edit data
+3. hapus data.
+4. relasi many to many dan one to one.
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
